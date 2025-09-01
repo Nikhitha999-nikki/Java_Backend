@@ -1,3 +1,4 @@
+//Represents an operation that accepts a single input argument and returns no result
 import java.util.function.Consumer;
 public class typeFun {
     int[] nums;  
@@ -14,3 +15,4 @@ public class typeFun {
         t.printNums(); 
     }
 }
+
