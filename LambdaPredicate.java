@@ -1,3 +1,6 @@
+//predicate same as function but it return only boolean values
+//we use test() method here
+
 import java.util.*;
 import java.util.function.Predicate;
 class LambdaPredicate{
@@ -8,4 +11,5 @@ class LambdaPredicate{
         System.out.println(n.test(type));
         
     }
+
 }
