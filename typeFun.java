@@ -1,4 +1,5 @@
 //Represents an operation that accepts a single input argument and returns no result
+// in this we use test() method
 import java.util.function.Consumer;
 public class typeFun {
     int[] nums;  
@@ -15,4 +16,5 @@ public class typeFun {
         t.printNums(); 
     }
 }
+
 
