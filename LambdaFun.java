@@ -1,3 +1,5 @@
+//function in functional interface can take one arg and return result
+//we use apply()
 import java.util.*;
 import java.util.function.Function;
 
@@ -17,3 +19,4 @@ class LambdaFun {
             System.out.println("Not eligible for voting");
     }
 }
+
